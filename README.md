@@ -153,7 +153,6 @@ tbd
 
 1. [r/Enshrouded](https://www.reddit.com/r/Enshrouded/) - Player discussions, projects, questions, and community finds.
 1. [Enshrouded Steam Community](https://steamcommunity.com/app/1203620) - Discussions, guides, and player posts.
-1. [Enshrouded.de Forum](https://enshrouded.de/forum/) (DE) - Deutschsprachiges Forum für Hilfe, Diskussionen, Bauwerke, Modding und Multiplayer.
 1. [Enshrouded - Deutsch (Discord)](https://zenial.net/discord/enshrouded-deutsch) (DE) - Deutschsprachiger Discord-Server zum Austauschen, für Hilfe und zur Spielersuche.
 
 ### 12 Streams & Videos
