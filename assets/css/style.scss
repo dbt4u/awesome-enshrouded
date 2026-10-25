@@ -2,12 +2,31 @@
 ---
 
 @import url('https://fonts.bunny.net/css?family=fira-sans-condensed:400,500,700&display=swap');
-@import 'jekyll-theme-hacker';
+@import 'jekyll-theme-slate';
 
-body, h1, h2, h3, h4, h5, h6, #a-title, .btn {
+body, h1, h2, h3, h4, h5, h6, p, li, td, th, #forkme_banner {
   font-family: 'Fira Sans Condensed', sans-serif;
 }
 
-.container {
-  max-width: 1400px;
+.inner {
+  max-width: 1200px;
+}
+
+/* Hero: Cover ragt in das dunkle Kopfband hinein */
+#header_wrap .inner {
+  padding-bottom: 120px;
+}
+
+#main_content > h1:first-child {
+  display: none;
+}
+
+#main_content img[src$="cover.png"] {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  margin: -100px 0 28px;
+  position: relative;
+  border-radius: 6px;
+  box-shadow: 0 10px 34px rgba(0, 0, 0, 0.45);
 }

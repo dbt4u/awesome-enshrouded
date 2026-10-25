@@ -1,5 +1,7 @@
 # Awesome & Delightful Enshrouded Links
 
+![Awesome & Delightful Enshrouded Resources: maps, tools, mods and guides](cover.png)
+
 > A curated hybrid of an awesome list and a delightful list for Enshrouded: interactive maps, building and voxel guides, crafting planners, mods, dedicated server tools, and communities.
 
 Inspired by [delightful-clair-obscur](https://codeberg.org/ClairLibre/delightful-clair-obscur), the [delightful list format](https://codeberg.org/teaserbot-labs/delightful) and the [awesome manifesto](https://github.com/sindresorhus/awesome).
@@ -246,9 +248,7 @@ tbd
 
 Found something delightful? Please suggest it in an issue or pull request. Include a short description, the resource's category, and, where relevant, the game version you checked it against.
 
-(DE) marks German-language content, including German-language Reddit or Discord communities and resources from Germany, Austria, or Switzerland. English is the default and needs no language marker. Add a country flag after the link only when the resource is specifically tied to that country or region.
-
-Keep links relevant to Enshrouded, prefer a direct project or creator page, and flag unofficial tools clearly. The list is curated; inclusion is not an endorsement.
+Links to German-language resources are marked with (DE), everything else is English. Please keep suggestions on topic, link directly to the project or creator, and label unofficial tools. The list is curated, so not every suggestion makes it in, but every one is welcome.
 
 ---
 
