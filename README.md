@@ -1,10 +1,8 @@
 # Awesome & Delightful Enshrouded Links
 
-> A curated hybrid of an awesome list and a delightful list: maps, tools, mods, guides, server utilities, and communities for Enshrouded.
+> A curated hybrid of an awesome list and a delightful list for Enshrouded: interactive maps, building and voxel guides, crafting planners, mods, dedicated server tools, and communities.
 
 Inspired by [delightful-clair-obscur](https://codeberg.org/ClairLibre/delightful-clair-obscur), the [delightful list format](https://codeberg.org/teaserbot-labs/delightful) and the [awesome manifesto](https://github.com/sindresorhus/awesome).
-
-ClairLibre project concepts are collected in [ideas.md](ideas.md).
 
 **Scope:** Enshrouded and the community around it.  
 **Last researched:** 2026-10-25.
@@ -12,28 +10,28 @@ ClairLibre project concepts are collected in [ideas.md](ideas.md).
 ## Contents
 
 1. [Explore & Learn](#explore--learn)
-    1. [01 Maps & Guides](#01-maps--guides)
-    1. [04 Materials & Crafting](#04-materials--crafting)
-    1. [05 Combat & Enemies](#05-combat--enemies)
+    1. [Maps & Guides](#maps--guides)
+    1. [Materials & Crafting](#materials--crafting)
+    1. [Combat & Enemies](#combat--enemies)
 1. [Build & Customize](#build--customize)
-    1. [02 Building & Voxel](#02-building--voxel)
-    1. [03 Tools & Planners](#03-tools--planners)
-    1. [06 Mods & Embervale Toolkit](#06-mods--embervale-toolkit)
-    1. [07 Sparkworks & Automation](#07-sparkworks--automation)
+    1. [Building & Voxel](#building--voxel)
+    1. [Tools & Planners](#tools--planners)
+    1. [Mods & Embervale Toolkit](#mods--embervale-toolkit)
+    1. [Sparkworks & Automation](#sparkworks--automation)
 1. [Run & Fun](#run--fun)
-    1. [08 Dedicated Servers & Admin](#08-dedicated-servers--admin)
-    1. [14 Gameplay](#14-gameplay)
-    1. [15 Lore](#15-lore)
+    1. [Dedicated Servers & Admin](#dedicated-servers--admin)
+    1. [Gameplay](#gameplay)
+    1. [Lore](#lore)
 1. [Community & News](#community--news)
-    1. [09 Official - Keen Games](#09-official--keen-games)
-    1. [10 News & Updates](#10-news--updates)
-    1. [11 Communities & Creators](#11-communities--creators)
-    1. [12 Streams & Videos](#12-streams--videos)
-    1. [13 Other Link Collections](#13-other-link-collections)
+    1. [Official - Keen Games](#official---keen-games)
+    1. [News & Updates](#news--updates)
+    1. [Communities & Creators](#communities--creators)
+    1. [Streams & Videos](#streams--videos)
+    1. [Other Link Collections](#other-link-collections)
 
 ## Explore & Learn
 
-### 01 Maps & Guides
+### Maps & Guides
 
 > Community-maintained maps and guides can lag behind patches; verify the game version and expect spoilers.
 
@@ -47,7 +45,7 @@ ClairLibre project concepts are collected in [ideas.md](ideas.md).
 1. [Enshrouded Wiki: game overview](https://enshrouded.wiki.gg/wiki/Enshrouded) - Community overview of the game and its development.
 1. [Wikipedia: Enshrouded](https://en.wikipedia.org/wiki/Enshrouded) - General background on development, platforms, and reception.
 
-### 04 Materials & Crafting
+### Materials & Crafting
 
 > Recipe and item data can change with updates; check when each database or planner was last updated.
 
@@ -61,7 +59,7 @@ ClairLibre project concepts are collected in [ideas.md](ideas.md).
 1. [Banrado.de: Erze farmen](https://banrado.de/enshrouded-erze-farmen) (DE) - Fundorte und Verarbeitung von Kupfer, Zinn, Eisen, Silber und Gold nach Biom; für Version 1.0 überarbeitet.
 1. [AFK Times: Rohstoffe und Fundorte](https://afktimes.com/de/enshrouded/guides/rohstoffe-fundorte/) (DE) - Deutsche Übersicht zu Rohstoffen, Fundorten und Herstellung; ältere Rezeptmengen sind auf der Seite gekennzeichnet.
 
-### 05 Combat & Enemies
+### Combat & Enemies
 
 > Bestiary and damage data can change with balance patches; verify the version and test uncertain values in game.
 
@@ -70,7 +68,7 @@ ClairLibre project concepts are collected in [ideas.md](ideas.md).
 
 ## Build & Customize
 
-### 02 Building & Voxel
+### Building & Voxel
 
 > Shared builds and building tools may have their own requirements; check the feature and game version.
 
@@ -83,7 +81,7 @@ ClairLibre project concepts are collected in [ideas.md](ideas.md).
 1. [Wccftech: Enshrouded director interview](https://wccftech.com/enshrouded-director-keen-games-bet-studio-future-5-million-players-paid-off-gamble) - Interview covering Keen Games' engine and development decisions.
 1. [Enshrouded: Performance improvements for 1.0](https://www.youtube.com/watch?v=y7aKq0VEppA) - Developer video about work on the Holistic Engine.
 
-### 03 Tools & Planners
+### Tools & Planners
 
 > Check current requirements, privacy notes, and game-version support for each tool.
 
@@ -91,7 +89,7 @@ ClairLibre project concepts are collected in [ideas.md](ideas.md).
 1. [TH.GL: Enshrouded Companion](https://www.th.gl/apps/enshrouded) - Windows overlay with live position and a companion website with map, database, calculator, and checklists.
 1. [Enshrouded Gaming Tools: Crafting Planner](https://enshrouded.gaming.tools/tools/crafting) - Plan multiple items and track recipe steps, materials, and workstations.
 
-### 06 Mods & Embervale Toolkit
+### Mods & Embervale Toolkit
 
 > Community modding tools are unofficial; check current game-version compatibility, requirements, and instructions before using them.
 
@@ -125,7 +123,7 @@ ClairLibre project concepts are collected in [ideas.md](ideas.md).
 1. [Haptic: Adding mods](https://haptic.gg/support/games/enshrouded/add-mods) - Hosting guide covering file paths and mod.json.
 1. [Sportskeeda: Official mod support?](https://www.sportskeeda.com/mmo/enshrouded-modding-support-mod-kits-developers) - Article discussing Keen Games' statements about modding.
 
-### 07 Sparkworks & Automation
+### Sparkworks & Automation
 
 > Sparkworks has an in-game 2D graph editor. Unofficial references may change with patches; no separate Blockly-style editor was found in this research pass.
 
@@ -140,7 +138,7 @@ ClairLibre project concepts are collected in [ideas.md](ideas.md).
 
 ## Run & Fun
 
-### 08 Dedicated Servers & Admin
+### Dedicated Servers & Admin
 
 > Start with Keen Games' documentation; server tools and configuration details can change between game updates.
 
@@ -175,13 +173,13 @@ ClairLibre project concepts are collected in [ideas.md](ideas.md).
 1. [Steam Community: Dedicated server with Docker](https://steamcommunity.com/sharedfiles/filedetails/?id=3444340317) - Community walkthrough for a Docker-based server.
 1. [Haptic: Enshrouded server FAQ](https://haptic.gg/support/games/enshrouded/common-questions) - Hosting provider's answers to common server questions.
 
-### 14 Gameplay
+### Gameplay
 
 > Explore Enshrouded by ways to play: survival, crafting and building, questing and story, action RPG progression, MMO-like co-op, exploration, and player-made adventures. Check each source against the current game version.
 
 1. [Hack the Minotaur: Enshrouded builds](https://hacktheminotaur.com/enshrouded/enshrouded-top-5-builds) - Collection of character build guides.
 
-### 15 Lore
+### Lore
 
 > Lore resources may reveal story and quest details; expect spoilers and check the game version.
 
@@ -189,7 +187,7 @@ tbd
 
 ## Community & News
 
-### 09 Official - Keen Games
+### Official - Keen Games
 
 > These are Keen Games official channels. Use them as the primary source for announcements and game details.
 
@@ -205,7 +203,7 @@ tbd
 1. [Enshrouded on Steam](https://store.steampowered.com/app/1203620/Enshrouded) - Official Steam store page for the game.
 1. [Enshrouded YouTube channel](https://www.youtube.com/@Enshroudedgame) - Official videos, trailers, and developer updates.
 
-### 10 News & Updates
+### News & Updates
 
 > News and changelogs are time-sensitive; check the publication date and affected game version.
 
@@ -218,7 +216,7 @@ tbd
 1. [CB Insights: Keen Games company profile](https://www.cbinsights.com/company/keen-games) - Third-party studio profile and business background.
 1. [LeadIQ: Keen Games overview](https://leadiq.com/c/keen-games/5a1d9cc823000052008c91db) - Third-party company profile and funding information.
 
-### 11 Communities & Creators
+### Communities & Creators
 
 > Community spaces contain user-generated posts; check their rules and context before relying on advice.
 
@@ -231,7 +229,7 @@ tbd
 1. [Reddit: Which engine does Enshrouded use?](https://www.reddit.com/r/Enshrouded/comments/1iqd2ii/what_game_engine_does_enshrouded_use) - Community discussion of Keen Games' custom engine.
 1. [EML Discord discussion](https://discord.com/channels/1046840540550942720/1060229540594593883/1197188056659280006) - Link to a modding discussion; access may require Discord server membership.
 
-### 12 Streams & Videos
+### Streams & Videos
 
 > Video directories change over time, and older playthroughs may show pre-1.0 mechanics.
 
@@ -240,7 +238,7 @@ tbd
 1. [IGN: Enshrouded 1.0 launch trailer](https://www.youtube.com/watch?v=XTHdbL7TwR8) - Video trailer for the 1.0 release.
 1. [GamingBolt: 16 Enshrouded 1.0 changes](https://www.youtube.com/watch?v=0RHePYy-ESg) - Video overview of release changes.
 
-### 13 Other Link Collections
+### Other Link Collections
 
 tbd
 
@@ -255,3 +253,5 @@ Keep links relevant to Enshrouded, prefer a direct project or creator page, and 
 ---
 
 *Enshrouded is a game by Keen Games. Unofficial community resources are identified as such where possible.*
+
+Published on [GitHub](https://github.com/dbt4u/awesome-enshrouded) · Source on [Codeberg](https://codeberg.org/ClairLibre/delightful-enshrouded)
