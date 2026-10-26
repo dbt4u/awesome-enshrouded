@@ -242,7 +242,7 @@ tbd
 
 ### Other Link Collections
 
-tbd
+1. [enshrouded-community](https://github.com/PR3SIDENT/enshrouded-community) - Server hosting guides and files.
 
 ## Contributing
 
