@@ -235,6 +235,7 @@ tbd
 
 > Video directories change over time, and older playthroughs may show pre-1.0 mechanics.
 
+1. [Enshrouded Playlist](https://www.youtube.com/playlist?list=PLbcdaV8b-xR8) (DE) - Offene Playlist zum Mitmachen.
 1. [Let's Play Index: Enshrouded channels](https://www.letsplayindex.com/games/enshrouded-2024/most-channel-views) - Searchable, changing directory of channels and videos.
 1. [Let's Play Index: German Enshrouded channels](https://www.letsplayindex.com/games/enshrouded-2024/de/most-lets-play-channel-views) (DE) - Verzeichnis deutschsprachiger Enshrouded-Let's-Plays.
 1. [IGN: Enshrouded 1.0 launch trailer](https://www.youtube.com/watch?v=XTHdbL7TwR8) - Video trailer for the 1.0 release.
