@@ -95,35 +95,49 @@ Inspired by [delightful-clair-obscur](https://codeberg.org/ClairLibre/delightful
 
 > Community modding tools are unofficial; check current game-version compatibility, requirements, and instructions before using them.
 
+#### Mod Hubs & News
+
 1. [Nexus Mods: Enshrouded](https://www.nexusmods.com/games/enshrouded) - Mod and community-file catalogue.
+1. [Enshrouded.gg: Mods](https://enshrouded.gg/mods/) - Overview of modding tools and related resources.
+1. [Banrado.de: Mods zum 1.0-Start](https://banrado.de/enshrouded-mods) (DE) - Deutscher Guide zu Mod-Kompatibilität, Spielstand-Sicherungen und Mods für Version 1.0.
+1. [Sportskeeda: Official mod support?](https://www.sportskeeda.com/mmo/enshrouded-modding-support-mod-kits-developers) - Article discussing Keen Games' statements about modding.
+
+#### Mod Loader & Toolkit
+
 1. [Enshrouded Mod Loader (EML)](https://github.com/Brabb3l/kfc-parser) - Open-source Lua-based mod loader; see its [documentation](https://brabb3l.github.io/kfc-parser/) and [releases](https://github.com/Brabb3l/kfc-parser/releases) for current features and compatibility.
-1. [Better French Translate: localization exporter](https://github.com/lucastucious/enshrouded-better-loc) - Lua mod that exports game text for each available language as JSON keyed by localization ID; useful for building an EN-DE glossary.
 1. [Embervale Toolkit](https://enshrouded.gamevault.in/mod) - Community toolkit for in-game building and mod features.
 1. [EML Beginner's Guide and Resource Hub](https://www.nexusmods.com/enshrouded/mods/135?tab=description) - Community guide and directory for EML-related mods.
 1. [ShroudForge](https://github.com/bonsaibauer/shroudforge) (DE) - Mod-Loader und Modding-Werkzeugkasten mit deutscher Einrichtungsanleitung; im Repository werden Unterstützung für Enshrouded 1.0 und aktuelle Hotfixes genannt.
-1. [Banrado.de: Mods zum 1.0-Start](https://banrado.de/enshrouded-mods) (DE) - Deutscher Guide zu Mod-Kompatibilität, Spielstand-Sicherungen und Mods für Version 1.0.
-1. [Ember: Enshrouded server modding SDK](https://github.com/zachthedev/enshrouded-ember) - In-development SDK for dedicated-server mods; check the supported server builds and project status.
-1. [M182 Admin Panel](https://www.nexusmods.com/enshrouded/mods/168) - Nexus Mods page for a community admin-panel mod; review its current files and requirements.
-1. [Enshrouded.gg: Mods](https://enshrouded.gg/mods/) - Overview of modding tools and related resources.
-1. [KFC Parser build workflow](https://github.com/Brabb3l/kfc-parser/actions/workflows/build_release.yml) - Project CI workflow and build history.
-1. [Brabb3l on GitHub](https://github.com/Brabb3l) - Developer profile linking related modding projects.
-1. [ndoa/kfc-tools](https://github.com/ndoa/kfc-tools) - Open-source tools for working with Enshrouded KFC data files.
+1. [Better French Translate: localization exporter](https://github.com/lucastucious/enshrouded-better-loc) - Lua mod that exports game text for each available language as JSON keyed by localization ID; useful for building an EN-DE glossary.
+
+#### EML Documentation
+
 1. [EML: Introduction](https://brabb3l.github.io/kfc-parser/eml/index.html) - Overview of the Lua-based Enshrouded Mod Loader.
 1. [EML: Usage guide](https://brabb3l.github.io/kfc-parser/eml/usage.html) - Installation and usage instructions, including Linux notes.
 1. [EML: API reference](https://brabb3l.github.io/kfc-parser/eml/api/index.html) - Loader API modules and code examples.
 1. [EML: Development guide](https://brabb3l.github.io/kfc-parser/eml/develop/index.html) - Starting point for creating EML mods.
 1. [EML: Development setup](https://brabb3l.github.io/kfc-parser/eml/develop/setup.html) - Project template and editor setup instructions.
 1. [EML: Getting started](https://brabb3l.github.io/kfc-parser/eml/develop/getting_started.html) - Introduction to the game, loader, and utility APIs.
+
+#### KFC Tools & File Formats
+
+1. [KFC Parser build workflow](https://github.com/Brabb3l/kfc-parser/actions/workflows/build_release.yml) - Project CI workflow and build history.
+1. [Brabb3l on GitHub](https://github.com/Brabb3l) - Developer profile linking related modding projects.
+1. [ndoa/kfc-tools](https://github.com/ndoa/kfc-tools) - Open-source tools for working with Enshrouded KFC data files.
 1. [KFC Parser: Legacy CLI](https://brabb3l.github.io/kfc-parser/cli-legacy/index.html) - Archived command-line documentation for unpacking and rebuilding files.
 1. [KFC game files overview](https://brabb3l.github.io/kfc-parser/game/kfc/index.html) - Reference for KFC files and game resources.
 1. [KFC file format specification](https://brabb3l.github.io/kfc-parser/game/kfc/file.html) - Technical file-format notes; the source marks this page as outdated.
+
+#### Server-Side Mods
+
+1. [Ember: Enshrouded server modding SDK](https://github.com/zachthedev/enshrouded-ember) - In-development SDK for dedicated-server mods; check the supported server builds and project status.
+1. [M182 Admin Panel](https://www.nexusmods.com/enshrouded/mods/168) - Nexus Mods page for a community admin-panel mod; review its current files and requirements.
 1. [GameServerKings: Server mods](https://www.gameserverkings.com/knowledge-base/enshrouded/how-to-install-mods/) - Guide to installing mods on dedicated servers.
 1. [WinterNode: Installing mods](https://winternode.com/help/games/enshrouded/mods) - Hosting provider's EML installation guide.
 1. [WinterNode: 1.0 server changes](https://winternode.com/blog/enshrouded/enshrouded-1-0-what-changes-for-servers) - Hosting provider's notes on server updates and mod compatibility.
 1. [Flux: Dedicated server mods](https://runonflux.com/games/enshrouded/guides/mods) - Guide to EML mods and server-side behavior.
 1. [Survival Servers: Mods after 1.0](https://www.survivalservers.com/wiki/Enshrouded_Mods_After_the_1.0_Update) - Hosting provider's report on mod compatibility after 1.0.
 1. [Haptic: Adding mods](https://haptic.gg/support/games/enshrouded/add-mods) - Hosting guide covering file paths and mod.json.
-1. [Sportskeeda: Official mod support?](https://www.sportskeeda.com/mmo/enshrouded-modding-support-mod-kits-developers) - Article discussing Keen Games' statements about modding.
 
 ### Sparkworks & Automation
 
@@ -144,10 +158,15 @@ Inspired by [delightful-clair-obscur](https://codeberg.org/ClairLibre/delightful
 
 > Start with Keen Games' documentation; server tools and configuration details can change between game updates.
 
+#### Official Docs
+
 1. [Official dedicated-server installation guide](https://enshrouded.zendesk.com/hc/en-us/articles/16051370691485-Dedicated-Server-Installation-on-Steam) - Keen Games guide to installing and starting the Steam dedicated-server tool.
 1. [Official server configuration guide](https://enshrouded.zendesk.com/hc/en-us/articles/16055441447709-Dedicated-Server-Configuration) - Reference for enshrouded_server.json and its settings.
 1. [Official dedicated-server FAQ](https://enshrouded.zendesk.com/hc/en-us/articles/16056312924957-Dedicated-Server-FAQ) - Official answers about saves, networking, server lists, and setup.
 1. [Official recommended server specifications](https://enshrouded.zendesk.com/hc/en-us/articles/16055628734109-Recommended-Server-Specifications) - Keen Games hardware and network recommendations.
+
+#### Server Managers, Tools & Lists
+
 1. [Enshrouded Server Manager by Crazyloon](https://github.com/Crazyloon/Enshrouded-Server-Manager) - Open-source desktop server manager.
 1. [Enshrouded Server Manager by Zat](https://github.com/Zataralee/Enshrouded-Server-Manager-by-Zat) - Browser-based manager for Windows dedicated servers, with experimental Linux support.
 1. [SMM-Enshrouded](https://github.com/SYSOFTEK/SMM-Enshrouded) - Community server manager and monitoring project.
@@ -156,24 +175,33 @@ Inspired by [delightful-clair-obscur](https://codeberg.org/ClairLibre/delightful
 1. [Supercraft: Enshrouded server config generator](https://tools.supercraft.host/games/enshrouded) - Browser-based server configuration tool; compare generated settings with Keen Games' current documentation.
 1. [BattleMetrics: Enshrouded servers](https://www.battlemetrics.com/servers/enshrouded) - Searchable server list with status, player, and location filters.
 1. [Enshrouded.gg: Servers](https://enshrouded.gg/server/) - Overview of self-hosting and rented server options.
-1. [GameServerKings: Server requirements](https://www.gameserverkings.com/knowledge-base/enshrouded/server-requirements/) - Hosting provider's hardware requirement guide.
-1. [GameServerKings: Playing with friends](https://www.gameserverkings.com/knowledge-base/enshrouded/how-to-play-with-friends/) - Comparison of in-game hosting and dedicated servers.
-1. [GameServerKings: 1.0 for server owners](https://www.gameserverkings.com/blog/enshrouded-1-0-what-server-owners-know-so-far/) - Hosting provider's overview of server-related changes for 1.0.
+
+#### Setup Guides
+
 1. [PatchNotebook: Dedicated server setup](https://patchnotebook.com/enshrouded/dedicated-server-setup/) - Community setup guide covering ports and settings.
-1. [RespawnHost: Server configuration](https://respawnhost.com/en/wiki/games/enshrouded/enshrouded-configuration/) - Field-by-field guide to enshrouded_server.json.
 1. [GuildOrder: Dedicated server configuration](https://guildorder.com/games/enshrouded/wiki/dedicated-server-configuration) - Configuration and networking reference.
 1. [ThundraNode: Server setup](https://thundranode.com/knowledgebase/enshrouded/how-to-set-up-your-server) - Hosting provider's basic server setup guide.
 1. [BerryByte: Server setup](https://berrybyte.net/wiki/games/enshrouded/setup-server) - Hosting provider's guide to firewall and port-forwarding settings.
 1. [Dot Esports: Dedicated server guide](https://dotesports.com/enshrouded/news/how-to-host-a-dedicated-server-in-enshrouded) - Step-by-step article for setting up the Steam server tool.
-1. [Pindrop: Dedicated server settings](https://pindrop.gg/enshrouded/dedicated-server) - Guide to player slots, settings, and hardware considerations.
 1. [Radiant: Dedicated server guide](https://radiantplay.com.au/learn/enshrouded/dedicated-server) - Hosting guide with CPU and memory considerations.
 1. [Liquid Web: Dedicated server setup](https://www.liquidweb.com/dedicated-server/enshrouded/) - Hosting provider's setup and bandwidth guide.
+
+#### Hosting Providers: Requirements & Settings
+
+1. [GameServerKings: Server requirements](https://www.gameserverkings.com/knowledge-base/enshrouded/server-requirements/) - Hosting provider's hardware requirement guide.
+1. [GameServerKings: Playing with friends](https://www.gameserverkings.com/knowledge-base/enshrouded/how-to-play-with-friends/) - Comparison of in-game hosting and dedicated servers.
+1. [GameServerKings: 1.0 for server owners](https://www.gameserverkings.com/blog/enshrouded-1-0-what-server-owners-know-so-far/) - Hosting provider's overview of server-related changes for 1.0.
+1. [RespawnHost: Server configuration](https://respawnhost.com/en/wiki/games/enshrouded/enshrouded-configuration/) - Field-by-field guide to enshrouded_server.json.
+1. [Pindrop: Dedicated server settings](https://pindrop.gg/enshrouded/dedicated-server) - Guide to player slots, settings, and hardware considerations.
 1. [GamezServers: Server requirements](https://gamezservers.com/guides/enshrouded-server-requirements) - Hosting provider's hardware and SteamCMD notes.
 1. [WDC GameGrid: Enshrouded knowledge base](https://wdcgamegrid.com/knowledge-base/games/enshrouded) - Server setup, configuration, and modding articles.
+1. [Haptic: Enshrouded server FAQ](https://haptic.gg/support/games/enshrouded/common-questions) - Hosting provider's answers to common server questions.
+
+#### Docker
+
 1. [indifferentbroccoli Enshrouded Docker image](https://hub.docker.com/r/indifferentbroccoli/enshrouded-server-docker) - Container image for running the dedicated server through Wine.
 1. [mrguato: Enshrouded Docker guide](https://mrguato.github.io/enshrouded-docker/guide) - Linux container setup and operations guide.
 1. [Steam Community: Dedicated server with Docker](https://steamcommunity.com/sharedfiles/filedetails/?id=3444340317) - Community walkthrough for a Docker-based server.
-1. [Haptic: Enshrouded server FAQ](https://haptic.gg/support/games/enshrouded/common-questions) - Hosting provider's answers to common server questions.
 
 ### Gameplay
 
