@@ -1,13 +1,15 @@
-# Awesome & Delightful Enshrouded Links
+# Delightful & Awesome Enshrouded Links
 
-![Awesome & Delightful Enshrouded Resources: maps, tools, mods and guides](cover.png)
+![Delightful & Awesome Enshrouded Resources: maps, tools, mods and guides](cover.png)
+
+[![delightful](https://codeberg.org/delightful-commons/delightful-commons/raw/branch/main/assets/delightful-badge.png)](https://codeberg.org/delightful-commons/delightful-commons) & [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated hybrid of an awesome list and a delightful list for Enshrouded: interactive maps, building and voxel guides, crafting planners, mods, dedicated server tools, and communities.
 
-Inspired by [delightful-clair-obscur](https://codeberg.org/ClairLibre/delightful-clair-obscur), the [delightful list format](https://codeberg.org/teaserbot-labs/delightful) and the [awesome manifesto](https://github.com/sindresorhus/awesome).
-
 **Scope:** Enshrouded and the community around it.  
 **Last researched:** 2026-10-25.
+
+Together we collected these gems of freedom :gem: Please [delight us](delight-us.md) and add your own.
 
 ## Contents
 
@@ -30,6 +32,7 @@ Inspired by [delightful-clair-obscur](https://codeberg.org/ClairLibre/delightful
     1. [Communities & Creators](#communities--creators)
     1. [Streams & Videos](#streams--videos)
     1. [Other Link Collections](#other-link-collections)
+1. [Maintainers](#maintainers)
 
 ## Explore & Learn
 
@@ -275,12 +278,19 @@ tbd
 
 ## Contributing
 
-Found something delightful? Please suggest it in an issue or pull request. Include a short description, the resource's category, and, where relevant, the game version you checked it against.
+Found something delightful? Please [delight us](delight-us.md) and suggest it in an issue or pull request. The [contributing guide](contributing.md) has the details. Include a short description, the resource's category, and, where relevant, the game version you checked it against.
 
 Links to German-language resources are marked with (DE), everything else is English. Please keep suggestions on topic, link directly to the project or creator, and label unofficial tools. The list is curated, so not every suggestion makes it in, but every one is welcome.
 
+## Maintainers
+
+If you have questions or feedback regarding this list, then please create an [Issue](https://codeberg.org/ClairLibre/delightful-enshrouded/issues) in our tracker, and optionally `@mention` one or more of our maintainers:
+
+- [`@dbt4u`](https://codeberg.org/dbt4u)
+- [`@ClairLibre`](https://codeberg.org/ClairLibre)
+
 ---
 
-*Enshrouded is a game by Keen Games. Unofficial community resources are identified as such where possible.*
+Enshrouded is a game by Keen Games. Unofficial community resources are identified as such where possible.
 
 Published on [GitHub](https://github.com/dbt4u/awesome-enshrouded) · Source on [Codeberg](https://codeberg.org/ClairLibre/delightful-enshrouded)
