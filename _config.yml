@@ -9,3 +9,5 @@ defaults:
       path: ""
     values:
       image: /preview.jpg
+plugins:
+  - jekyll-sitemap
