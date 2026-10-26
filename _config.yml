@@ -4,3 +4,4 @@ description: Maps, tools, mods, building guides, dedicated servers and communiti
 exclude:
   - "@archive"
   - scripts
+image: /preview.jpg
