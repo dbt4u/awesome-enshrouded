@@ -46,15 +46,15 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
 1. [Gamevault: Embervale map](https://enshrouded.gamevault.in/map) - 2D and 3D map with terrain relief shading, searchable markers, and save-related features.
 1. [MetaForge: Enshrouded](https://metaforge.app/enshrouded) - Interactive map and game database.
 1. [Enshrouded Wiki](https://enshrouded.wiki.gg/wiki/Main_Page) - Player-maintained reference for maps, quests, lore, items, and enemies.
-1. [Banrado.de: Enshrouded Guides](https://banrado.de/game/enshrouded/) (DE) - Deutsche Guides zu Erkundung, Bauen, Landwirtschaft, Ressourcen und Updates.
 1. [Pindrop: Enshrouded](https://pindrop.gg/enshrouded) - Interactive map, skill planner, builds, and reference pages; the site reports that some map and item data is still only partly updated for 1.0.
 1. [Map Genie: Enshrouded](https://mapgenie.io/enshrouded) - Interactive Embervale map with guides, a 100% checklist, and lore pages.
 1. [Shrouded.tools: map](https://shrouded.tools/en/) - Map with points of interest and open marker data under AGPL-3.0; also available in German and French.
-1. [Wand: Embervale-Karte](https://wand.com/de/maps/enshrouded/embervale-2025/checklist) (DE) - Interaktive Karte mit Filtern, eigenen Pins und 100%-Checklisten für Orte, Sammelobjekte und Lore.
-1. [Gamevault: Standorte](https://gamevault.in/embervale/de/locations/) (DE) - Fundorte nach Kategorie sortiert, zum Beispiel Minen, Grüfte und Altäre.
 1. [Enshrouded Wiki home](https://enshrouded.wiki.gg) - Community wiki landing page and reference index.
 1. [Enshrouded Wiki: game overview](https://enshrouded.wiki.gg/wiki/Enshrouded) - Community overview of the game and its development.
 1. [Wikipedia: Enshrouded](https://en.wikipedia.org/wiki/Enshrouded) - General background on development, platforms, and reception.
+1. [Banrado.de: Enshrouded Guides](https://banrado.de/game/enshrouded/) (DE) - Deutsche Guides zu Erkundung, Bauen, Landwirtschaft, Ressourcen und Updates.
+1. [Wand: Embervale-Karte](https://wand.com/de/maps/enshrouded/embervale-2025/checklist) (DE) - Interaktive Karte mit Filtern, eigenen Pins und 100%-Checklisten für Orte, Sammelobjekte und Lore.
+1. [Gamevault: Standorte](https://gamevault.in/embervale/de/locations/) (DE) - Fundorte nach Kategorie sortiert, zum Beispiel Minen, Grüfte und Altäre.
 
 ### Materials & Crafting
 
@@ -108,16 +108,16 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
 
 1. [Nexus Mods: Enshrouded](https://www.nexusmods.com/games/enshrouded) - Mod and community-file catalogue.
 1. [Enshrouded.gg: Mods](https://enshrouded.gg/mods/) - Overview of modding tools and related resources.
-1. [Banrado.de: Mods zum 1.0-Start](https://banrado.de/enshrouded-mods) (DE) - Deutscher Guide zu Mod-Kompatibilität, Spielstand-Sicherungen und Mods für Version 1.0.
 1. [Sportskeeda: Official mod support?](https://www.sportskeeda.com/mmo/enshrouded-modding-support-mod-kits-developers) - Article discussing Keen Games' statements about modding.
+1. [Banrado.de: Mods zum 1.0-Start](https://banrado.de/enshrouded-mods) (DE) - Deutscher Guide zu Mod-Kompatibilität, Spielstand-Sicherungen und Mods für Version 1.0.
 
 #### Mod Loader & Toolkit
 
 1. [Enshrouded Mod Loader (EML)](https://github.com/Brabb3l/kfc-parser) - Open-source Lua-based mod loader; see its [documentation](https://brabb3l.github.io/kfc-parser/) and [releases](https://github.com/Brabb3l/kfc-parser/releases) for current features and compatibility.
 1. [Embervale Toolkit](https://enshrouded.gamevault.in/mod) - Community toolkit for in-game building and mod features.
 1. [EML Beginner's Guide and Resource Hub](https://www.nexusmods.com/enshrouded/mods/135?tab=description) - Community guide and directory for EML-related mods.
-1. [ShroudForge](https://github.com/bonsaibauer/shroudforge) (DE) - Mod-Loader und Modding-Werkzeugkasten mit deutscher Einrichtungsanleitung; im Repository werden Unterstützung für Enshrouded 1.0 und aktuelle Hotfixes genannt.
 1. [Better French Translate: localization exporter](https://github.com/lucastucious/enshrouded-better-loc) - Lua mod that exports game text for each available language as JSON keyed by localization ID; useful for building an EN-DE glossary.
+1. [ShroudForge](https://github.com/bonsaibauer/shroudforge) (DE) - Mod-Loader und Modding-Werkzeugkasten mit deutscher Einrichtungsanleitung; im Repository werden Unterstützung für Enshrouded 1.0 und aktuelle Hotfixes genannt.
 
 #### EML Documentation
 
@@ -289,10 +289,10 @@ tbd
 #### Dedicated Enshrouded Servers
 
 1. [Official Enshrouded Discord](https://discord.gg/enshrouded) - Official community server for news, discussion, and sharing creations.
+1. [EML Discord discussion](https://discord.com/channels/1046840540550942720/1060229540594593883/1197188056659280006) - Link to a modding discussion; access may require Discord server membership.
 1. [Enshrouded - Deutsch (Discord)](https://zenial.net/discord/enshrouded-deutsch) (DE) - Deutschsprachiger Discord-Server zum Austauschen, für Hilfe und zur Spielersuche.
 1. [Kay Gaming (Discord)](https://discord.gg/pMk7JmDAHa) (DE) - Discord des YouTube-Kanals Kay Gaming mit Community-Servern für Enshrouded und Conan Exiles.
 1. [Kontreck (Discord)](https://discord.com/invite/3j3HSBaR8V) (DE) - Discord des YouTube-Kanals Kontreck, bekannt für Guides zu Survival- und Open-World-Spielen.
-1. [EML Discord discussion](https://discord.com/channels/1046840540550942720/1060229540594593883/1197188056659280006) - Link to a modding discussion; access may require Discord server membership.
 
 #### Discord Search
 
@@ -304,11 +304,11 @@ tbd
 
 > Video directories change over time, and older playthroughs may show pre-1.0 mechanics.
 
-1. [Enshrouded Playlist](https://www.youtube.com/playlist?list=PLbcdaV8b-xR8) (DE) - Offene Playlist zum Mitmachen.
 1. [Let's Play Index: Enshrouded channels](https://www.letsplayindex.com/games/enshrouded-2024/most-channel-views) - Searchable, changing directory of channels and videos.
-1. [Let's Play Index: German Enshrouded channels](https://www.letsplayindex.com/games/enshrouded-2024/de/most-lets-play-channel-views) (DE) - Verzeichnis deutschsprachiger Enshrouded-Let's-Plays.
 1. [IGN: Enshrouded 1.0 launch trailer](https://www.youtube.com/watch?v=XTHdbL7TwR8) - Video trailer for the 1.0 release.
 1. [GamingBolt: 16 Enshrouded 1.0 changes](https://www.youtube.com/watch?v=0RHePYy-ESg) - Video overview of release changes.
+1. [Enshrouded Playlist](https://www.youtube.com/playlist?list=PLbcdaV8b-xR8) (DE) - Offene Playlist zum Mitmachen.
+1. [Let's Play Index: German Enshrouded channels](https://www.letsplayindex.com/games/enshrouded-2024/de/most-lets-play-channel-views) (DE) - Verzeichnis deutschsprachiger Enshrouded-Let's-Plays.
 
 ### Other Link Collections
 
@@ -318,7 +318,7 @@ tbd
 
 Found something delightful? Please [delight us](delight-us.md) and suggest it in an issue or pull request. The [contributing guide](contributing.md) has the details. Include a short description, the resource's category, and, where relevant, the game version you checked it against.
 
-Links to German-language resources are marked with (DE), everything else is English. Please keep suggestions on topic, link directly to the project or creator, and label unofficial tools. The list is curated, so not every suggestion makes it in, but every one is welcome.
+Links to German-language resources are marked with (DE) and come last in their section, everything else is English. Please keep suggestions on topic, link directly to the project or creator, and label unofficial tools. The list is curated, so not every suggestion makes it in, but every one is welcome.
 
 ## Maintainers
 
