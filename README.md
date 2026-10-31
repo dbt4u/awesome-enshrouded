@@ -23,6 +23,7 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
     1. [Mods & Embervale Toolkit](#mods--embervale-toolkit)
     1. [Sparkworks & Automation](#sparkworks--automation)
 1. [Run & Fun](#run--fun)
+    1. [Find a Server](#find-a-server)
     1. [Dedicated Servers & Admin](#dedicated-servers--admin)
     1. [Gameplay](#gameplay)
     1. [Lore](#lore)
@@ -30,6 +31,7 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
     1. [Official - Keen Games](#official---keen-games)
     1. [News & Updates](#news--updates)
     1. [Communities & Creators](#communities--creators)
+    1. [Discord](#discord)
     1. [Streams & Videos](#streams--videos)
     1. [Other Link Collections](#other-link-collections)
 1. [Maintainers](#maintainers)
@@ -46,6 +48,10 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
 1. [Enshrouded Wiki](https://enshrouded.wiki.gg/wiki/Main_Page) - Player-maintained reference for maps, quests, lore, items, and enemies.
 1. [Banrado.de: Enshrouded Guides](https://banrado.de/game/enshrouded/) (DE) - Deutsche Guides zu Erkundung, Bauen, Landwirtschaft, Ressourcen und Updates.
 1. [Pindrop: Enshrouded](https://pindrop.gg/enshrouded) - Interactive map, skill planner, builds, and reference pages; the site reports that some map and item data is still only partly updated for 1.0.
+1. [Map Genie: Enshrouded](https://mapgenie.io/enshrouded) - Interactive Embervale map with guides, a 100% checklist, and lore pages.
+1. [Shrouded.tools: map](https://shrouded.tools/en/) - Map with points of interest and open marker data under AGPL-3.0; also available in German and French.
+1. [Wand: Embervale-Karte](https://wand.com/de/maps/enshrouded/embervale-2025/checklist) (DE) - Interaktive Karte mit Filtern, eigenen Pins und 100%-Checklisten für Orte, Sammelobjekte und Lore.
+1. [Gamevault: Standorte](https://gamevault.in/embervale/de/locations/) (DE) - Fundorte nach Kategorie sortiert, zum Beispiel Minen, Grüfte und Altäre.
 1. [Enshrouded Wiki home](https://enshrouded.wiki.gg) - Community wiki landing page and reference index.
 1. [Enshrouded Wiki: game overview](https://enshrouded.wiki.gg/wiki/Enshrouded) - Community overview of the game and its development.
 1. [Wikipedia: Enshrouded](https://en.wikipedia.org/wiki/Enshrouded) - General background on development, platforms, and reception.
@@ -130,6 +136,7 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
 1. [KFC Parser: Legacy CLI](https://brabb3l.github.io/kfc-parser/cli-legacy/index.html) - Archived command-line documentation for unpacking and rebuilding files.
 1. [KFC game files overview](https://brabb3l.github.io/kfc-parser/game/kfc/index.html) - Reference for KFC files and game resources.
 1. [KFC file format specification](https://brabb3l.github.io/kfc-parser/game/kfc/file.html) - Technical file-format notes; the source marks this page as outdated.
+1. [universal-modder: Enshrouded engine notes](https://github.com/rehan-remade/universal-modder/pull/398) - Claude Code modding toolkit; note on reading the Keen engine statically, building on kfc-parser.
 
 #### Server-Side Mods
 
@@ -157,6 +164,25 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
 
 ## Run & Fun
 
+### Find a Server
+
+> Server lists change quickly; check player counts and update status before joining.
+
+#### Server Portals
+
+1. [BattleMetrics: Enshrouded servers](https://www.battlemetrics.com/servers/enshrouded) - Searchable server list with status, player, and location filters.
+1. [GameMonitoring: Enshrouded servers](https://gamemonitoring.net/enshrouded/servers) - Server monitoring and ranking list with points and player counts.
+1. [serverlist.gg: Enshrouded servers](https://serverlist.gg/enshrouded/top-voted) - Community server list with tags, votes, and a top-voted ranking.
+1. [Top-Games: Enshrouded servers](https://top-games.net/enshrouded) - Vote-based ranking of Enshrouded servers.
+1. [TopGameServers: Enshrouded servers](https://topgameservers.net/enshrouded) - Searchable and filterable server list with voting.
+1. [JoinGameServers: Enshrouded servers](https://joingameservers.com/gb/enshrouded-server) - Server list comparing player counts, votes, and status.
+1. [WarGM: Enshrouded servers](https://wargm.com/servers/enshrouded) - Server monitoring rated by attendance and stability; some entries may belong to other games.
+
+#### How to Join
+
+1. [Supercraft: How to join an Enshrouded server](https://supercraft.host/wiki/enshrouded/how-to-join) - Steps for joining a dedicated server, including Steam favorites.
+1. [GameServerKings: Connection troubleshooting](https://www.gameserverkings.com/knowledge-base/enshrouded/connection-troubleshooting/) - Fixes for servers that do not show up or refuse connections.
+
 ### Dedicated Servers & Admin
 
 > Start with Keen Games' documentation; server tools and configuration details can change between game updates.
@@ -168,7 +194,7 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
 1. [Official dedicated-server FAQ](https://enshrouded.zendesk.com/hc/en-us/articles/16056312924957-Dedicated-Server-FAQ) - Official answers about saves, networking, server lists, and setup.
 1. [Official recommended server specifications](https://enshrouded.zendesk.com/hc/en-us/articles/16055628734109-Recommended-Server-Specifications) - Keen Games hardware and network recommendations.
 
-#### Server Managers, Tools & Lists
+#### Server Managers & Tools
 
 1. [Enshrouded Server Manager by Crazyloon](https://github.com/Crazyloon/Enshrouded-Server-Manager) - Open-source desktop server manager.
 1. [Enshrouded Server Manager by Zat](https://github.com/Zataralee/Enshrouded-Server-Manager-by-Zat) - Browser-based manager for Windows dedicated servers, with experimental Linux support.
@@ -176,7 +202,6 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
 1. [YotaPower04 Enshrouded Server Manager](https://github.com/YotaPower04/enshrouded-server-manager) - Linux desktop manager for an Enshrouded dedicated server running via GE-Proton.
 1. [WindowsGSM Enshrouded plugin](https://github.com/ohmcodes/WindowsGSM.Enshrouded) - Community plugin for managing an Enshrouded dedicated server with WindowsGSM.
 1. [Supercraft: Enshrouded server config generator](https://tools.supercraft.host/games/enshrouded) - Browser-based server configuration tool; compare generated settings with Keen Games' current documentation.
-1. [BattleMetrics: Enshrouded servers](https://www.battlemetrics.com/servers/enshrouded) - Searchable server list with status, player, and location filters.
 1. [Enshrouded.gg: Servers](https://enshrouded.gg/server/) - Overview of self-hosting and rented server options.
 
 #### Setup Guides
@@ -203,7 +228,6 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
 #### Docker
 
 1. [indifferentbroccoli Enshrouded Docker image](https://hub.docker.com/r/indifferentbroccoli/enshrouded-server-docker) - Container image for running the dedicated server through Wine.
-1. [mrguato: Enshrouded Docker guide](https://mrguato.github.io/enshrouded-docker/guide) - Linux container setup and operations guide.
 1. [Steam Community: Dedicated server with Docker](https://steamcommunity.com/sharedfiles/filedetails/?id=3444340317) - Community walkthrough for a Docker-based server.
 
 ### Gameplay
@@ -229,7 +253,6 @@ tbd
 1. [Official FAQ](https://kg-www.keengames.com/en-US/faq) - Keen Games answers common questions, including its published answer about mod support.
 1. [Official support centre](https://enshrouded.zendesk.com/hc/en-us) - Official help centre for support articles and troubleshooting.
 1. [Official social channels](https://enshrouded.zendesk.com/hc/en-us/articles/10746850204445-Social-Media) - Links to the game social accounts, Discord, and newsletter.
-1. [Official Enshrouded Discord](https://discord.gg/enshrouded) - Official community server for news, discussion, and sharing creations.
 1. [Enshrouded Creator Program](https://creators.enshrouded.com/) - Official program for video creators and streamers.
 1. [Enshrouded official FAQ](https://enshrouded.com/en-US/faq) - Official answers about the game, including modding and server hosting.
 1. [Keen Games: About](https://www.keengames.com/about) - Studio background and history from the developer.
@@ -255,12 +278,27 @@ tbd
 
 1. [r/Enshrouded](https://www.reddit.com/r/Enshrouded/) - Player discussions, projects, questions, and community finds.
 1. [Enshrouded Steam Community](https://steamcommunity.com/app/1203620) - Discussions, guides, and player posts.
-1. [Enshrouded - Deutsch (Discord)](https://zenial.net/discord/enshrouded-deutsch) (DE) - Deutschsprachiger Discord-Server zum Austauschen, für Hilfe und zur Spielersuche.
 1. [Steam discussion: Mod support](https://steamcommunity.com/app/1203620/discussions/0/6273017912363810975/) - Player thread about Keen Games' approach to modding.
 1. [Steam discussion: Mods and Workshop](https://steamcommunity.com/app/1203620/discussions/0/3826414483626920581/) - Player discussion of Workshop support and the game's engine.
 1. [Steam discussion: Game engine](https://steamcommunity.com/app/1203620/discussions/0/4142816460198294390?l=portuguese) - Player thread discussing whether Enshrouded uses Unreal Engine.
-1. [Reddit: Which engine does Enshrouded use?](https://www.reddit.com/r/Enshrouded/comments/1iqd2ii/what_game_engine_does_enshrouded_use) - Community discussion of Keen Games' custom engine.
+
+### Discord
+
+> Discord links may require an account, and invite links can expire.
+
+#### Dedicated Enshrouded Servers
+
+1. [Official Enshrouded Discord](https://discord.gg/enshrouded) - Official community server for news, discussion, and sharing creations.
+1. [Enshrouded - Deutsch (Discord)](https://zenial.net/discord/enshrouded-deutsch) (DE) - Deutschsprachiger Discord-Server zum Austauschen, für Hilfe und zur Spielersuche.
+1. [Kay Gaming (Discord)](https://discord.gg/pMk7JmDAHa) (DE) - Discord des YouTube-Kanals Kay Gaming mit Community-Servern für Enshrouded und Conan Exiles.
+1. [Kontreck (Discord)](https://discord.com/invite/3j3HSBaR8V) (DE) - Discord des YouTube-Kanals Kontreck, bekannt für Guides zu Survival- und Open-World-Spielen.
 1. [EML Discord discussion](https://discord.com/channels/1046840540550942720/1060229540594593883/1197188056659280006) - Link to a modding discussion; access may require Discord server membership.
+
+#### Discord Search
+
+1. [Discord Server Discovery](https://discord.com/servers) - Discord's own directory of public servers; search it for Enshrouded.
+1. [Discord Bot List: Servers](https://discordbotlist.com/servers) - Server directory with invite links; lists the official Enshrouded server and the community LFG server.
+1. [top.gg: Enshrouded Discord servers](https://top.gg/discord/servers/tag/enshrouded) - Directory of Discord servers tagged Enshrouded.
 
 ### Streams & Videos
 
