@@ -55,6 +55,7 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
 1. [Banrado.de: Enshrouded Guides](https://banrado.de/game/enshrouded/) (DE) - Deutsche Guides zu Erkundung, Bauen, Landwirtschaft, Ressourcen und Updates.
 1. [Wand: Embervale-Karte](https://wand.com/de/maps/enshrouded/embervale-2025/checklist) (DE) - Interaktive Karte mit Filtern, eigenen Pins und 100%-Checklisten für Orte, Sammelobjekte und Lore.
 1. [Gamevault: Standorte](https://gamevault.in/embervale/de/locations/) (DE) - Fundorte nach Kategorie sortiert, zum Beispiel Minen, Grüfte und Altäre.
+1. [MetaBot.GG: Interaktive Karte](https://metabot.gg/de_DE/enshrouded/map) (DE) - Karte für Version 1.0 mit abhakbaren Ebenen (Warten, Schreine der Flamme, Miasmawurzeln) und Ressourcen-Ebenen; eine optionale Windows-App gleicht Häkchen mit der Website ab.
 
 ### Materials & Crafting
 
