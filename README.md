@@ -14,7 +14,9 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
 ## Contents
 
 1. [Explore & Learn](#explore--learn)
-    1. [Maps & Guides](#maps--guides)
+    1. [Maps](#maps)
+    1. [Guides](#guides)
+    1. [Wikis & More](#wikis--more)
     1. [Materials & Crafting](#materials--crafting)
     1. [Combat & Enemies](#combat--enemies)
 1. [Build & Customize](#build--customize)
@@ -38,24 +40,35 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
 
 ## Explore & Learn
 
-### Maps & Guides
+### Maps
 
-> Community-maintained maps and guides can lag behind patches; verify the game version and expect spoilers.
+> Community-maintained maps can lag behind patches; verify the game version and expect spoilers.
 
 1. [Enshrouded.tools](https://www.enshrouded.tools/) - Interactive Embervale map, game reference, and guides.
 1. [Gamevault: Embervale map](https://enshrouded.gamevault.in/map) - 2D and 3D map with terrain relief shading, searchable markers, and save-related features.
 1. [MetaForge: Enshrouded](https://metaforge.app/enshrouded) - Interactive map and game database.
-1. [Enshrouded Wiki](https://enshrouded.wiki.gg/wiki/Main_Page) - Player-maintained reference for maps, quests, lore, items, and enemies.
 1. [Pindrop: Enshrouded](https://pindrop.gg/enshrouded) - Interactive map, skill planner, builds, and reference pages; the site reports that some map and item data is still only partly updated for 1.0.
 1. [Map Genie: Enshrouded](https://mapgenie.io/enshrouded) - Interactive Embervale map with guides, a 100% checklist, and lore pages.
 1. [Shrouded.tools: map](https://shrouded.tools/en/) - Map with points of interest and open marker data under AGPL-3.0; also available in German and French.
-1. [Enshrouded Wiki home](https://enshrouded.wiki.gg) - Community wiki landing page and reference index.
-1. [Enshrouded Wiki: game overview](https://enshrouded.wiki.gg/wiki/Enshrouded) - Community overview of the game and its development.
-1. [Wikipedia: Enshrouded](https://en.wikipedia.org/wiki/Enshrouded) - General background on development, platforms, and reception.
-1. [Banrado.de: Enshrouded Guides](https://banrado.de/game/enshrouded/) (DE) - Deutsche Guides zu Erkundung, Bauen, Landwirtschaft, Ressourcen und Updates.
 1. [Wand: Embervale-Karte](https://wand.com/de/maps/enshrouded/embervale-2025/checklist) (DE) - Interaktive Karte mit Filtern, eigenen Pins und 100%-Checklisten für Orte, Sammelobjekte und Lore.
 1. [Gamevault: Standorte](https://gamevault.in/embervale/de/locations/) (DE) - Fundorte nach Kategorie sortiert, zum Beispiel Minen, Grüfte und Altäre.
 1. [MetaBot.GG: Interaktive Karte](https://metabot.gg/de_DE/enshrouded/map) (DE) - Karte für Version 1.0 mit abhakbaren Ebenen (Warten, Schreine der Flamme, Miasmawurzeln) und Ressourcen-Ebenen; eine optionale Windows-App gleicht Häkchen mit der Website ab.
+
+### Guides
+
+> Guides can lag behind patches; verify the game version and expect spoilers.
+
+1. [Banrado.de: Enshrouded Guides](https://banrado.de/game/enshrouded/) (DE) - Deutsche Guides zu Erkundung, Bauen, Landwirtschaft, Ressourcen und Updates.
+
+### Wikis & More
+
+> Player-maintained references; check which game version a page refers to.
+
+1. [Enshrouded Wiki](https://enshrouded.wiki.gg/wiki/Main_Page) - Player-maintained reference for maps, quests, lore, items, and enemies.
+1. [Enshrouded Wiki home](https://enshrouded.wiki.gg) - Community wiki landing page and reference index.
+1. [Enshrouded Wiki: game overview](https://enshrouded.wiki.gg/wiki/Enshrouded) - Community overview of the game and its development.
+1. [Wikipedia: Enshrouded](https://en.wikipedia.org/wiki/Enshrouded) - General background on development, platforms, and reception.
+1. [Shroud Words](https://y.lab.nrw/shrd-wrds) - English-German dictionary of in-game terms, searchable in both languages and sorted by category such as items, places, and story.
 
 ### Materials & Crafting
 
