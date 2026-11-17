@@ -132,6 +132,9 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
 1. [EML Beginner's Guide and Resource Hub](https://www.nexusmods.com/enshrouded/mods/135?tab=description) - Community guide and directory for EML-related mods.
 1. [Better French Translate: localization exporter](https://github.com/lucastucious/enshrouded-better-loc) - Lua mod that exports game text for each available language as JSON keyed by localization ID; useful for building an EN-DE glossary.
 1. [ShroudForge](https://github.com/bonsaibauer/shroudforge) (DE) - Mod-Loader und Modding-Werkzeugkasten mit deutscher Einrichtungsanleitung; im Repository werden Unterstützung für Enshrouded 1.0 und aktuelle Hotfixes genannt.
+1. [shroudlink](https://github.com/bjck/shroudlink) - Mod framework for 1.0 servers and singleplayer, with in-game MODS tab.
+1. [EMF: Enshrouded Modding Framework](https://www.nexusmods.com/enshrouded/mods/246) - Community modding framework on Nexus Mods.
+1. [Shroudtopia](https://github.com/s0t7x/shroudtopia) - Early mod loader, pinned to pre-1.0 builds.
 
 #### EML Documentation
 
@@ -154,7 +157,8 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
 
 #### Server-Side Mods
 
-1. [Ember: Enshrouded server modding SDK](https://github.com/zachthedev/enshrouded-ember) - In-development SDK for dedicated-server mods; check the supported server builds and project status.
+1. [Ember: Enshrouded server modding SDK](https://github.com/zachthedev/enshrouded-ember) - Server mod SDK in development; 1.0 support unclear.
+1. [Expeditions](https://github.com/GronGM/enshrouded-expeditions) - shroudlink mod: survivors go on expeditions and bring back loot.
 1. [M182 Admin Panel](https://www.nexusmods.com/enshrouded/mods/168) - Nexus Mods page for a community admin-panel mod; review its current files and requirements.
 1. [GameServerKings: Server mods](https://www.gameserverkings.com/knowledge-base/enshrouded/how-to-install-mods/) - Guide to installing mods on dedicated servers.
 1. [WinterNode: Installing mods](https://winternode.com/help/games/enshrouded/mods) - Hosting provider's EML installation guide.
@@ -217,6 +221,7 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
 1. [WindowsGSM Enshrouded plugin](https://github.com/ohmcodes/WindowsGSM.Enshrouded) - Community plugin for managing an Enshrouded dedicated server with WindowsGSM.
 1. [Supercraft: Enshrouded server config generator](https://tools.supercraft.host/games/enshrouded) - Browser-based server configuration tool; compare generated settings with Keen Games' current documentation.
 1. [Enshrouded.gg: Servers](https://enshrouded.gg/server/) - Overview of self-hosting and rented server options.
+1. [enshrouded-map-addon](https://github.com/lokidata/enshrouded-map-addon) - Server control add-on for a self-hosted interactive map.
 
 #### Setup Guides
 
