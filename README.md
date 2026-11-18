@@ -113,6 +113,7 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
 1. [Enshrouded.tools: Tools](https://www.enshrouded.tools/tools) - Skill-tree, crafting, build, Flame Altar, and server-settings planners.
 1. [TH.GL: Enshrouded Companion](https://www.th.gl/apps/enshrouded) - Windows overlay with live position and a companion website with map, database, calculator, and checklists.
 1. [Enshrouded Gaming Tools: Crafting Planner](https://enshrouded.gaming.tools/tools/crafting) - Plan multiple items and track recipe steps, materials, and workstations.
+1. [ShapeForge](https://gitlab.com/shapeforge-software-group/shapeforge) - Desktop app that builds blueprints from 3D shapes and exports them for the Embervale Toolkit.
 
 ### Mods & Embervale Toolkit
 
@@ -128,13 +129,19 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
 #### Mod Loader & Toolkit
 
 1. [Enshrouded Mod Loader (EML)](https://github.com/Brabb3l/kfc-parser) - Open-source Lua-based mod loader; see its [documentation](https://brabb3l.github.io/kfc-parser/) and [releases](https://github.com/Brabb3l/kfc-parser/releases) for current features and compatibility.
-1. [Embervale Toolkit](https://enshrouded.gamevault.in/mod) - Community toolkit for in-game building and mod features.
+1. [Embervale Toolkit](https://enshrouded.gamevault.in/mod) - Community toolkit for in-game building and mod features; closed source.
 1. [EML Beginner's Guide and Resource Hub](https://www.nexusmods.com/enshrouded/mods/135?tab=description) - Community guide and directory for EML-related mods.
 1. [Better French Translate: localization exporter](https://github.com/lucastucious/enshrouded-better-loc) - Lua mod that exports game text for each available language as JSON keyed by localization ID; useful for building an EN-DE glossary.
+1. [Voices of Embervale RU](https://github.com/Daber-devNull/voices-of-embervale-ru) (RU) - Russian AI voice mod: open-source installer and runtime, audio on Nexus Mods; beta.
 1. [ShroudForge](https://github.com/bonsaibauer/shroudforge) (DE) - Mod-Loader und Modding-Werkzeugkasten mit deutscher Einrichtungsanleitung; im Repository werden Unterstützung für Enshrouded 1.0 und aktuelle Hotfixes genannt.
 1. [shroudlink](https://github.com/bjck/shroudlink) - Mod framework for 1.0 servers and singleplayer, with in-game MODS tab.
-1. [EMF: Enshrouded Modding Framework](https://www.nexusmods.com/enshrouded/mods/246) - Community modding framework on Nexus Mods.
+1. [EMF: Enshrouded Modding Framework](https://github.com/matenm/emf-enshrouded) - Open-source Lua and C++ modding framework with mod manager and in-game console; also on [Nexus Mods](https://www.nexusmods.com/enshrouded/mods/246).
 1. [Shroudtopia](https://github.com/s0t7x/shroudtopia) - Early mod loader, pinned to pre-1.0 builds.
+1. [Kiln](https://github.com/frostdev-ops/kiln) - Mod framework and launcher for client and server that also loads mods of EML, ShroudForge, shroudlink, EMF and other loaders; early pre-releases.
+1. [Enshwick](https://github.com/enshwick/enshwick) - Modding framework and API for client and dedicated server, mods in Rust, Luau, C or C++; alpha.
+1. [Shrouded Engine Tweaks (SET)](https://github.com/Cacaida/Shrouded-Engine-Tweaks) - Lua mod framework with in-game overlay, console and entity inspector, for worlds you host.
+1. [Embervale Teleport](https://github.com/Greeneye0/embervale-teleport-enshrouded) - Map-based teleport mod (Shift + hold left mouse on the world map) with its own Greeneye Loader.
+1. [Creative Mode](https://www.nexusmods.com/enshrouded/mods/146) - Creative building mod with its own mod runtime (Flame); no public source repository found.
 
 #### EML Documentation
 
@@ -154,11 +161,13 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
 1. [KFC game files overview](https://brabb3l.github.io/kfc-parser/game/kfc/index.html) - Reference for KFC files and game resources.
 1. [KFC file format specification](https://brabb3l.github.io/kfc-parser/game/kfc/file.html) - Technical file-format notes; the source marks this page as outdated.
 1. [universal-modder: Enshrouded engine notes](https://github.com/rehan-remade/universal-modder/pull/398) - Claude Code modding toolkit; note on reading the Keen engine statically, building on kfc-parser.
+1. [ShroudStudio](https://github.com/AmFearLiath/ShroudStudio) (DE) - Early research project on Enshrouded building tools and file formats.
 
 #### Server-Side Mods
 
 1. [Ember: Enshrouded server modding SDK](https://github.com/zachthedev/enshrouded-ember) - Server mod SDK in development; 1.0 support unclear.
 1. [Expeditions](https://github.com/GronGM/enshrouded-expeditions) - shroudlink mod: survivors go on expeditions and bring back loot.
+1. [More Flame Altars](https://github.com/frostdev-ops/more-flame-altars) - Kiln mod that raises the flame altar limit.
 1. [M182 Admin Panel](https://www.nexusmods.com/enshrouded/mods/168) - Nexus Mods page for a community admin-panel mod; review its current files and requirements.
 1. [GameServerKings: Server mods](https://www.gameserverkings.com/knowledge-base/enshrouded/how-to-install-mods/) - Guide to installing mods on dedicated servers.
 1. [WinterNode: Installing mods](https://winternode.com/help/games/enshrouded/mods) - Hosting provider's EML installation guide.
@@ -166,6 +175,15 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
 1. [Flux: Dedicated server mods](https://runonflux.com/games/enshrouded/guides/mods) - Guide to EML mods and server-side behavior.
 1. [Survival Servers: Mods after 1.0](https://www.survivalservers.com/wiki/Enshrouded_Mods_After_the_1.0_Update) - Hosting provider's report on mod compatibility after 1.0.
 1. [Haptic: Adding mods](https://haptic.gg/support/games/enshrouded/add-mods) - Hosting guide covering file paths and mod.json.
+
+#### Obacht: Unverified Downloads
+
+> We are not sure whether the following projects are a scam or something worse. We found them while researching mods, checked them from the outside only and do **not** link them on purpose. Do not download or run them unless you can verify the source yourself.
+
+1. **Enshrouded Save Editor** (GitLab, browser) - The repository contains only a README; the editor runs on a third-party website and asks for your save files. No source code to verify the "local-first" claim.
+1. **Enshrouded Interactive Map Desktop** (GitHub) - Stars and a download badge that do not match the account; the advertised Windows app does not match the source in the repository.
+1. **Enshrouded Flame Altar Planner** (GitHub) - New account with many game "tools"; the source is a small web page, the release is a ZIP with an EXE.
+1. **enshrouded-desktop** (GitLab) - Download links point to another repository and to a telegra.ph page.
 
 ### Sparkworks & Automation
 
