@@ -36,6 +36,7 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
     1. [Discord](#discord)
     1. [Streams & Videos](#streams--videos)
     1. [Other Link Collections](#other-link-collections)
+1. [Nebeltal](#nebeltal)
 1. [Maintainers](#maintainers)
 
 ## Explore & Learn
@@ -68,7 +69,6 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
 1. [Enshrouded Wiki home](https://enshrouded.wiki.gg) - Community wiki landing page and reference index.
 1. [Enshrouded Wiki: game overview](https://enshrouded.wiki.gg/wiki/Enshrouded) - Community overview of the game and its development.
 1. [Wikipedia: Enshrouded](https://en.wikipedia.org/wiki/Enshrouded) - General background on development, platforms, and reception.
-1. [Shroud Words](https://y.lab.nrw/shrd-wrds) - English-German dictionary of in-game terms, searchable in both languages and sorted by category such as items, places, and story.
 
 ### Materials & Crafting
 
@@ -350,6 +350,13 @@ tbd
 ### Other Link Collections
 
 1. [enshrouded-community](https://github.com/PR3SIDENT/enshrouded-community) - Server hosting guides and files.
+
+## Nebeltal
+
+> Tools, guides, and lists made by the maintainers of this list.
+
+1. [Shroud Words](https://y.lab.nrw/shrd-wrds) - English-German dictionary of in-game terms, searchable in both languages and sorted by category such as items, places, and story.
+1. [Nebel-Uhr](https://wochenklang.gitlab.io/shroud-clock/) (DE) - In-game day and night clock: sync once with the game time, then see the current hour and the time left until day or night; day and night length adjustable to match server settings.
 
 ## Contributing
 
