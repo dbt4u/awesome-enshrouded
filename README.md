@@ -13,6 +13,7 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
 
 ## Contents
 
+1. [Nebeltal Gilde](#nebeltal-gilde)
 1. [Explore & Learn](#explore--learn)
     1. [Maps](#maps)
     1. [Guides](#guides)
@@ -36,8 +37,17 @@ Together we collected these gems of freedom :gem: Please [delight us](delight-us
     1. [Discord](#discord)
     1. [Streams & Videos](#streams--videos)
     1. [Other Link Collections](#other-link-collections)
-1. [Nebeltal](#nebeltal)
 1. [Maintainers](#maintainers)
+
+## Nebeltal Gilde
+
+> Tools, guides, and lists made by the maintainers of this list.
+
+1. [Shroud Words](https://y.lab.nrw/shrd-wrds) - English-German dictionary of in-game terms, also as [JSON data](https://shroud-words-044327.gitlab.io/data.json).
+1. [Nebeltuete](https://codeberg.org/ClairLibre/nebeltuete) - Surprise-bag map of Embervale in the making: vaults, craftspeople, flame altars, treasures and bosses, filtered by hashtags; static page, no account, no tracking. Concept stage.
+1. [Nebel-Uhr](https://wochenklang.gitlab.io/shroud-clock/) (DE) - In-game day and night clock: sync once with the game time, then see the current hour and the time left until day or night; day and night length adjustable to match server settings.
+1. [Nebel-FAQ](nebel-faq.md) (DE) - Short answers to small questions from the start of the game.
+1. [LAN-Party mit Enshrouded](lan-party.md) (DE) - Play in your own network with a dedicated server, up to 16 players. Under heavy WIP.
 
 ## Explore & Learn
 
@@ -350,13 +360,6 @@ tbd
 ### Other Link Collections
 
 1. [enshrouded-community](https://github.com/PR3SIDENT/enshrouded-community) - Server hosting guides and files.
-
-## Nebeltal
-
-> Tools, guides, and lists made by the maintainers of this list.
-
-1. [Shroud Words](https://y.lab.nrw/shrd-wrds) - English-German dictionary of in-game terms, searchable in both languages and sorted by category such as items, places, and story.
-1. [Nebel-Uhr](https://wochenklang.gitlab.io/shroud-clock/) (DE) - In-game day and night clock: sync once with the game time, then see the current hour and the time left until day or night; day and night length adjustable to match server settings.
 
 ## Contributing
 
